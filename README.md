@@ -847,11 +847,10 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (51).png>)
-![alt text](<Screenshot (53).png>)
-![alt text](<Screenshot (54).png>)
-![alt text](<Screenshot (55).png>)
-
+![alt text](<Screenshot (62).png>)
+![alt text](<Screenshot (63).png>)
+![alt text](<Screenshot (64).png>)
+![alt text](<Screenshot (65).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

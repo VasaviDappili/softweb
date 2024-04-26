@@ -209,7 +209,7 @@ home.html
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by NITHISH R (23006406) </center>
+        <center> Designed and Developed by DAPPILI VASAVI(212223040030) </center>
     </footer>
 </body>
 </html>
@@ -386,7 +386,7 @@ people.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by DAPPILI VASAVI(212223040117) </center>
+        <center> Designed and Developed by DAPPILI VASAVI(212223040030) </center>
     </footer>
 </body>
 </html>
@@ -839,7 +839,7 @@ contact.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by NITHISH R (23006406) </center>
+        <center> Designed and Developed by DAPPILI VASAVI(212223040030) </center>
     </footer>
 </body>
 </html>
